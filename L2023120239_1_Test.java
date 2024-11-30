@@ -1,6 +1,7 @@
 import org.junit.Assert;
 import org.junit.Test;
 
+
 public class L2023120239_1_Test {
     @Test
     public  void Solution1Test(){
